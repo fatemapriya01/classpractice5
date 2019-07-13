@@ -1,0 +1,127 @@
+.Measurement{
+background-color: violet;	
+border: solid;
+}
+.px{
+	font-size: 50px;
+}
+.pt{
+	font-size: 50pt;
+}
+.em{
+	font-size: 5em;
+}
+.percentage{
+	font-size: 200%;
+}
+.selector{
+	background-color: violet;
+	border: solid;
+}
+p{
+	font-size: 50px;
+}
+.class{
+	font-size: 50px;
+}
+.border{
+	border: 3px solid blue;
+}
+#selector{
+	font-size: 50px;
+}
+.color{
+	background-color: violet;
+	border: solid;
+}
+.solid{
+	color: blue;
+}
+.hexa{
+	color: #ff0000;
+}
+.rgb{
+	color: rgb(0,255,0);
+}
+.rgba{
+	color: rgba(255,0,0,.3);
+}
+.display{
+	background-color: violet;
+	border: solid;
+}
+.bold{
+	color: dodgerblue;
+}
+.block{
+	color: dodgerblue;
+}
+.display2{
+	display: inline-block;
+}
+.inline-block{
+	color: dodgerblue;
+}
+.table{
+	background-color: violet;
+	border: solid;
+}
+.margin{
+	background-color: violet;
+	border: solid;
+}
+.left{
+	margin-left: 60px;
+	background-color: pink;
+}
+.right{
+	margin-right: 100px;
+	background-color: pink;
+}
+.top{
+	margin-top: 70px;
+	background-color: pink;
+}
+.bottom{
+	margin-bottom: 70px;
+	background-color: pink;
+}
+.h3{
+	margin: 50px;
+	background-color:pink; 
+}
+.padding{
+	background-color: violet;
+	border:solid;
+}
+.padding1{
+	padding: 50px;
+	background-color: skyblue;
+
+}
+.padding2{
+	padding-top: 50px;
+	background-color: skyblue;
+}
+.padding3{
+	padding-left: 60px;
+background-color: skyblue;
+}
+.entities{
+	background-color: violet;
+	border: solid;
+}
+.symbol{
+	background-color: violet;
+	border: solid;
+}
+.charset{
+	background-color: violet;
+	border: solid;
+}
+
+
+
+
+
+
